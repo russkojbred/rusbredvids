@@ -42,7 +42,7 @@ dependencies:
   shimmer: ^3.0.0
   
   # Утилиты
-  intl: ^0.18.0
+  intl: ^0.19.0
   path: ^1.8.3
   file_picker: ^5.3.0
   permission_handler: ^10.2.0
